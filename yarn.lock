@@ -1489,10 +1489,10 @@ googleapis-common@^5.0.2:
     url-template "^2.0.8"
     uuid "^8.0.0"
 
-googleapis@^76.0.0:
-  version "76.0.0"
-  resolved "https://registry.yarnpkg.com/googleapis/-/googleapis-76.0.0.tgz#44bed361e92df7e44646bdc1a51df031c1ddf0bd"
-  integrity sha512-l/TFSW7IRFcb7wF641BlmuP8Ox1ncuzJk5Fcs2947otlGBm5ktDxFhPkmrcNDaG+LWPQsuDwP1ojL0xV39cpmw==
+googleapis@^96.0.0:
+  version "96.0.0"
+  resolved "https://registry.yarnpkg.com/googleapis/-/googleapis-96.0.0.tgz#95bdf0e57bc912581ba7bc10eb202301f2b05dc1"
+  integrity sha512-tEQtcukxA4sW1OXh35teJbui+BIjMTghH6i0tvUctyXgMDO0Upu3+hrytrw9JqZJxtXReM3Wr5+g4U7veqHpBQ==
   dependencies:
     google-auth-library "^7.0.2"
     googleapis-common "^5.0.2"
